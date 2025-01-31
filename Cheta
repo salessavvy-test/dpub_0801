@@ -1,0 +1,22 @@
+Testg glea in gitub
+
+
+element = driver.find_element_by_id('element_id');
+
+
+
+alert = driver.switch_to.alert
+alert accept()  # To accept the alert
+alert dismiss()  # To dismiss the alert
+
+
+www.googke.com
+
+www.google.com
+
+
+canary.glean.com
+
+Work life in glean is awesome
+
+This too shall pass
